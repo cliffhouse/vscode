@@ -1,0 +1,18 @@
+// 既定の設定を上書きするには、このファイル内に設定を挿入します
+{
+"editor.fontSize": 11,
+"window.menuBarVisibility": "default",
+"editor.cursorStyle": "block",
+ "editor.wordWrap": "on",
+"git.enabled": false,
+"workbench.colorTheme": "Visual Studio Light",
+"workbench.activityBar.visible": false,
+"editor.cursorStyle": "line",
+"editor.minimap.enabled": false,
+ "editor.quickSuggestions": {
+   "other": false,
+   "comments": false,
+   "strings": false
+},
+"editor.renderLineHighlight": "all",
+}
